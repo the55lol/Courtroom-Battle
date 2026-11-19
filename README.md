@@ -77,15 +77,15 @@ Independently developed by [the55lol](https://github.com/the55lol).
 ## Screenshots
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/spire_combat.png)
 
 ### Boss Fight
-![Boss Fight](screenshots/boss-fight.png)
+![Boss Fight](screenshots/spire_boss.png)
 
 ### Mini-game
-![Mini-game](screenshots/minigame.png)
+![Mini-game](screenshots/spire_minigame.png)
 
 ### Map
-![Map](screenshots/map.png)
+![Map](screenshots/spire_map.png)
 
 
