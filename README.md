@@ -72,3 +72,20 @@ The project was developed independently as a personal software development proje
 ## Author
 
 Independently developed by [the55lol](https://github.com/the55lol).
+
+
+## Screenshots
+
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### Boss Fight
+![Boss Fight](screenshots/boss-fight.png)
+
+### Mini-game
+![Mini-game](screenshots/minigame.png)
+
+### Map
+![Map](screenshots/map.png)
+
+
